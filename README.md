@@ -4,6 +4,12 @@
 
 ---
 
+## 🏆 Destaques & Conquistas
+> **🥇 1º Lugar no Ranking Geral - Hackers do Bem (Red Team)**
+> *Reconhecimento de excelência técnica e consistência prática em segurança ofensiva.*
+
+---
+
 ## 🛠️ Tech Stack & Ferramentas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -17,16 +23,16 @@
 ## 🧠 Etapa 1: Inventário de Habilidades
 
 ### 💻 Hard Skills (Técnicas)
+* **Cibersegurança (Red Team):** Pentest, varredura de redes (**Nmap**), exploração de vulnerabilidades (**Metasploit**) e análise web (**Burp Suite**).
 * **Robótica & Microcontroladores:** Criação de projetos autônomos e adaptadores utilizando **Arduino**, **RP2040** e sensores eletrônicos.
 * **Manutenção Avançada:** Diagnóstico de hardware, reparo de placas-mãe, solda SMD e regravação de BIOS (EZP2019+).
-* **Cibersegurança (Red Team):** Pentest, varredura de redes (**Nmap**), exploração de vulnerabilidades (**Metasploit**) e análise web (**Burp Suite**).
 * **Infraestrutura & Home Lab:** Virtualização com **Proxmox**, containers **Docker**, e servidores Linux (Debian/Ubuntu).
 * **Cloud Computing (AWS):** Arquiteturas Serverless (S3, Lambda, DynamoDB, QuickSight).
 
 ### 🤝 Soft Skills (Comportamentais)
+* **Competitividade & Excelência:** Comprovada pelo desempenho de alto nível em rankings técnicos.
 * **Troubleshooting:** Investigação profunda de logs e resolução de problemas complexos (hardware e software).
 * **Autodidatismo:** Habilidade de aprender novas tecnologias "na raça" (Ex: Projetos de Thin Client, Robótica).
-* **Transparência:** Comunicação clara e ética profissional.
 
 ---
 
@@ -43,13 +49,13 @@
 
 ## 💰 Etapa 3: Caminhos de Monetização
 
-1.  **Freelancer & Consultoria**
+1.  **Carreira em Cibersegurança**
+    * Utilizar o **Ranking do Hackers do Bem** como prova de autoridade para vagas Pleno/Sênior.
+2.  **Freelancer & Consultoria**
     * Criação de protótipos eletrônicos e reparo especializado.
-    * Consultoria de segurança básica para pequenos negócios.
-2.  **Transição de Carreira**
-    * Foco em vagas Júnior/Pleno para Segurança Ofensiva ou Cloud.
+    * Consultoria de segurança ("Ethical Hacking") para empresas.
 3.  **Portfólio Ativo**
-    * Documentação de **Write-ups** (CTF) e projetos de robótica/IoT aqui no GitHub.
+    * Documentação de **Write-ups** (CTF) e laboratórios técnicos aqui no GitHub.
 
 ---
 *Gerado para o desafio de projeto da DIO.*
